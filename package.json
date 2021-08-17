@@ -1,0 +1,20 @@
+{
+  "name": "node-api-http",
+  "version": "1.0.0",
+  "description": "Basic API model developed in NodeJS using HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fepalemes/node-api-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fepalemes/node-api-http/issues"
+  },
+  "homepage": "https://github.com/fepalemes/node-api-http#readme"
+}
